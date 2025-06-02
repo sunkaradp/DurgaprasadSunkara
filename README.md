@@ -2,7 +2,7 @@
 
 I'm a DevOps engineer with 2.5+ years of hands-on experience working with tools like Kubernetes, Docker, Jenkins, and AWS. Currently, I'm studying Applied Data Science & Analytics at SRH Hochschule in Hamburg.
 
-I'm always curious about how automation, cloud infrastructure, and data-driven systems can work together — and I’m actively looking for a working student role where I can keep learning while contributing to real projects.
+I'm always curious about how automation, cloud infrastructure, and data-driven systems can work together, and I’m actively looking for a working student role where I can keep learning while contributing to real projects.
 
 ## 🛠️ What I Work With
 
